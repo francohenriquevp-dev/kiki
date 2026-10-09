@@ -1,2 +1,1 @@
-# kiki
-Personal assistant that reviews my past League of Legends matches
+Personal assistant for my own use only (single user, not public). It reads my League of Legends profile, rank and match history through the API and reviews my past matches, pointing out stats such as deaths, CS per minute, vision score and kill participation so I can see what to improve. No data is stored, shared or sold.
